@@ -1,6 +1,6 @@
-# CCX Desktop
+# CyberChain Desktop
 
-CCX Desktop is the official desktop application for [CyberChain](https://cyberchain.xyz), a next-generation blockchain platform. Built with modern technology, it provides an intuitive interface for managing your CyberChain node and mining operations.
+CyberChain Desktop is the official desktop application for [CyberChain](https://cyberchain.xyz), a next-generation blockchain platform. Built with modern technology, it provides an intuitive interface for managing your CyberChain node and mining operations.
 
 ## Features
 
@@ -14,7 +14,7 @@ CCX Desktop is the official desktop application for [CyberChain](https://cyberch
 
 ## Download
 
-Download the latest version for your platform from our [Releases Page](https://github.com/OpenCyberXyz/ccx-desktop/releases).
+Download the latest version for your platform from our [Releases Page](https://github.com/OpenCyberXyz/cyberchain-desktop/releases).
 
 ## Support
 
