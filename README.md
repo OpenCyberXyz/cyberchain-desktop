@@ -8,7 +8,7 @@ CyberChain Desktop is the official desktop application for [CyberChain](https://
 - 💻 Cross-platform support (Windows, Linux, macOS coming soon)
 - ⛏️ Automatic management of CyberChain nodes and xMiner mining program
 - 🔄 One-click mining with SOLO and Pool mining support
-- 🌟 100% open source and portable
+- 🌟 100% open source and portable (Previous major version’s open-source policy)
 - 🛡️ Secure third-party GitHub builds
 - 🔒 Safe and reliable operation
 
